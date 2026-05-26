@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "metricsutringify",
+        "uuid": 9417240,
+        "checksum": "pmjym"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
